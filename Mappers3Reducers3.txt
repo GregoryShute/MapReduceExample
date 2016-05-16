@@ -1,0 +1,19 @@
+hello: (foo3.txt: 3), (foo3.txt: 5), (foo3.txt: 9), (foo2.txt: 4), (foo2.txt: 5), (foo2.txt: 9), (foo1.txt: 1), (foo1.txt: 5).
+hi: (foo3.txt: 4), (foo3.txt: 19).
+three: (foo3.txt: 12), (foo2.txt: 12), (foo1.txt: 8).
+two: (foo3.txt: 13), (foo1.txt: 9).
+what: (foo3.txt: 16).
+no: (foo3.txt: 17), (foo3.txt: 20).
+printer: (foo3.txt: 2), (foo3.txt: 7), (foo2.txt: 7), (foo1.txt: 3).
+programming: (foo3.txt: 6), (foo2.txt: 6), (foo1.txt: 2).
+yo: (foo3.txt: 15).
+yes: (foo3.txt: 18).
+pickles: (foo2.txt: 1).
+milk: (foo2.txt: 3).
+mail: (foo2.txt: 13).
+gmail: (foo2.txt: 14).
+computer: (foo3.txt: 1), (foo3.txt: 8), (foo2.txt: 8), (foo1.txt: 4).
+five: (foo3.txt: 10), (foo2.txt: 10), (foo1.txt: 6).
+four: (foo3.txt: 11), (foo2.txt: 11), (foo1.txt: 7).
+one: (foo3.txt: 14), (foo1.txt: 10).
+cheese: (foo2.txt: 2).

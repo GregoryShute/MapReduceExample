@@ -1,0 +1,9 @@
+hello: (foo1.txt: 1), (foo1.txt: 5).
+computer: (foo1.txt: 4).
+programming: (foo1.txt: 2).
+printer: (foo1.txt: 3).
+five: (foo1.txt: 6).
+four: (foo1.txt: 7).
+three: (foo1.txt: 8).
+two: (foo1.txt: 9).
+one: (foo1.txt: 10).
